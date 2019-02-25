@@ -1,2 +1,2 @@
-# Hello-World
-hello world in C++
+# Nifty Mountain 
+by Bin in C++
